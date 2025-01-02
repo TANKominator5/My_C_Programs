@@ -1,2 +1,2 @@
 # My_C_Programs
-Contains all the c programs i wrote in my lifetime
+Contains all the C programs i wrote in my lifetime
